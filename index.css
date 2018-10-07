@@ -1,0 +1,51 @@
+.navborder
+{   
+    border-bottom: 4px solid #096CD5 !important;
+    opacity: 0.8;
+}
+.homebackimage
+{
+    background-image: url(img/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    min-height: 700px;
+    background-attachment: fixed;
+    
+}
+.fa-check
+{
+    font-size: 2rem;
+    
+}
+.dark-overlay
+{
+    background-color: rgba(0,0,0,0.7);
+    min-height: 700px;
+}
+.row
+{
+    padding-top: 100px;
+}
+.card
+{
+    border:0;
+}
+#home-section
+{
+    background-color: #333333;
+    color:#fff;
+    padding:40px 0 40px 0;
+}
+#home-create,#home-share
+{
+    background-color: #007BFF;
+    color: #fff;
+    padding:40px 0 40px 0;
+}
+#home-passion
+{
+    background-color: #333333;
+    color: #fff;
+
+}
